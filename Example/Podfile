@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AGPodTextDemo_Example' do
+  pod 'AGPodTextDemo', :path => '../'
+
+  target 'AGPodTextDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
