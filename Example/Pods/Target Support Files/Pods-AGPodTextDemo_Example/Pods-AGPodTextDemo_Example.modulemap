@@ -1,0 +1,6 @@
+framework module Pods_AGPodTextDemo_Example {
+  umbrella header "Pods-AGPodTextDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

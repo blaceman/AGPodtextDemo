@@ -1,0 +1,6 @@
+framework module AGPodTextDemo {
+  umbrella header "AGPodTextDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

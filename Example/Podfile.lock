@@ -1,0 +1,16 @@
+PODS:
+  - AGPodTextDemo (0.1.0)
+
+DEPENDENCIES:
+  - AGPodTextDemo (from `../`)
+
+EXTERNAL SOURCES:
+  AGPodTextDemo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AGPodTextDemo: 3199f59a1adfca98f5b5ce55a530edd39bf33f05
+
+PODFILE CHECKSUM: f255d1aadf1fc838957791ad4d9e5cb4001e4b6a
+
+COCOAPODS: 1.0.0
